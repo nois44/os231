@@ -1,5 +1,5 @@
 ---
-<span style="color:cyan; font-weight:bold; font-size:larger;">By Gabriel</span>
+<span style="color:black; font-weight:bold; font-size:larger;">By Gabriel</span>
 <br><br>
 [HOME](.) ---
 [LOG](TXT/mylog.txt) ---
