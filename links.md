@@ -42,3 +42,15 @@ A website that teaches me a lot about linux's bind command. I got interested in 
 A website that explains common file management commands on linux, complete with explanations, examples, and demos. Personally, I think this website is really useful, informative, and really easy to understand.
 5. [File Management Commands](https://www.tutorialspoint.com/unix/unix-file-management.htm)
 An addition from the link above, this web explains in more detail about file management as well as providing more examples of file management commands on Unix/Linux. It is complete with easy to understand explanation and examples. Highly recommended.
+
+## Week 04
+1. [Logical vs Physical Address](https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics/07%3A_Memory/7.5%3A_Logical_vs_Physical_Address)<br>
+This source gives a good overview on the differences of logical and physical addresses, using a simple figure and a comparison chart to explain the concepts in a friendly way.
+2. [Paging in Operating System](https://www.geeksforgeeks.org/paging-in-operating-system/)<br>
+This article helps me understand more about the concept of paging, used by operating systems to avoid external fragmentation, a problem that may occur in managing data. This source uses an example and figures to explain the topic.
+3. [Segmented, Paged and Virtual Memory](https://www.youtube.com/watch?v=p9yZNLeOj4s)<br>
+The speaker presents the topic in a simple yet effective way, explaining the topic of segmented, paged, and virtual memory, contrasting how data is stored in segmented and paged memory management systems.
+4. [Difference Between C and Java](https://www.guru99.com/difference-between-java-and-c.html)<br>
+Are you new to C programming language? If you've learned Java, then you might say that it almost looks the same (based on the syntax). The truth is that the two are very different in terms of program orientation. The purpose of this site is only to compare C to Java and not to give you the introduction to C language. For more learning materials, I suggest you to read "The C Programming Language (2nd Edition)" by Brian Kernighan and co-authored by the man who created the C language himself, Dennis Ritchie.
+5. [Why use double indirection? or Why use pointers to pointers?](https://stackoverflow.com/questions/5580761/why-use-double-indirection-or-why-use-pointers-to-pointers)<br>
+Why do we need a pointer to point a pointer that points to a variable with value in it? Is the question already confusing enough? Then try to read this to understand the purpose of it and how do you implement it in your program.
