@@ -54,3 +54,10 @@ The speaker presents the topic in a simple yet effective way, explaining the top
 Are you new to C programming language? If you've learned Java, then you might say that it almost looks the same (based on the syntax). The truth is that the two are very different in terms of program orientation. The purpose of this site is only to compare C to Java and not to give you the introduction to C language. For more learning materials, I suggest you to read "The C Programming Language (2nd Edition)" by Brian Kernighan and co-authored by the man who created the C language himself, Dennis Ritchie.
 5. [Why use double indirection? or Why use pointers to pointers?](https://stackoverflow.com/questions/5580761/why-use-double-indirection-or-why-use-pointers-to-pointers)<br>
 Why do we need a pointer to point a pointer that points to a variable with value in it? Is the question already confusing enough? Then try to read this to understand the purpose of it and how do you implement it in your program.
+
+### Week05
+1. [NUMA](https://www.geeksforgeeks.org/difference-between-uniform-memory-access-uma-and-non-uniform-memory-access-numa/)  
+Perbedaan antara Uniform Memory Access (UMA) dan Non-uniform Memory Access (NUMA).
+
+2. [Page-Buffering Algorithms](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)  
+Komputer dapat menangani lebih banyak memori daripada jumlah yang terpasang secara fisik pada sistem. Memori ekstra ini sebenarnya disebut memori virtual dan merupakan bagian dari hard disk yang diatur untuk meniru RAM komputer.
