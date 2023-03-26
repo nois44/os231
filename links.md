@@ -60,3 +60,11 @@ Why do we need a pointer to point a pointer that points to a variable with value
 Perbedaan antara Uniform Memory Access (UMA) dan Non-uniform Memory Access (NUMA).
 2. [Page-Buffering Algorithms](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)  
 Komputer dapat menangani lebih banyak memori daripada jumlah yang terpasang secara fisik pada sistem. Memori ekstra ini sebenarnya disebut memori virtual dan merupakan bagian dari hard disk yang diatur untuk meniru RAM komputer.
+
+## WEEK 06
+1. [Basics for Processes and Threads](https://www.youtube.com/watch?v=Wv7mzX8w3jI)<br>
+This is a video that describes the basic concept of what a process and thread is. This is a very good video for beginners that want to understand how it function and why we need processes and threads.
+2. [What Is and How Does a Fork() Work?](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+This is an article that explains about how fork() actually works, it also gives a really good coding example in C on how it actually can be practised. By the function, fork system call is used for creating a new process, which is called child process, which runs concurrently with the process that makes the fork() call, the parent process itself.
+3. [The Difference Between Concurrent and Parallel Processes](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)⛓<br>
+This article is quite good to give people a picture on how concurrent and parallel processes work and differ. In here we will understand about multithreading and a lot more, that can help us understand about processes even further.
