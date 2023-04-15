@@ -68,3 +68,19 @@ This is a video that describes the basic concept of what a process and thread is
 This is an article that explains about how fork() actually works, it also gives a really good coding example in C on how it actually can be practised. By the function, fork system call is used for creating a new process, which is called child process, which runs concurrently with the process that makes the fork() call, the parent process itself.
 3. [The Difference Between Concurrent and Parallel Processes](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)⛓<br>
 This article is quite good to give people a picture on how concurrent and parallel processes work and differ. In here we will understand about multithreading and a lot more, that can help us understand about processes even further.
+
+### Week07
+1. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+Sebuah artikel yang berisi penjelasan awal seputar materi Process Synchronization yang dibahas pada week 07. Artikel menjadi pengantar awal yang bagus dalam memberikan pemahaman awal dan apa-apa saja yang akan dipelajari untuk materi pada week 07.
+
+2. [Peterson’s Problem](https://www.tutorialspoint.com/peterson-s-problem)<br>
+Artikel yang menjelaskan Peterson’s Problem. Artikel ini menjelaskan sintaks kode dari Peterson’s Problem disertakan juga kelemahan dari pemakaian Peterson’s Problem itu sendiri.
+
+3. [Critical Section Animation](https://youtu.be/6x_XMDCMyAk)<br>
+The critical section problem is an issue where there is a resource that can only be used by one process at a time, but multiple processes want to use it. That concept is visualized with an analogy by the video above, which helps to understand the criteria/conditions for solving this problem.
+
+4. [Operating Systems: Process Synchronization](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/5_Synchronization.html)
+The page above is an excellent summary (though still very long and detailed) of the entire chapter of Synchronization, from its concept to different solutions like Peterson's Solution (software-based) and Semaphores (hardware solution). The page also includes snippets of C code to help us understand the problems and solutions in practice.
+
+5. [What is a semaphore?](https://youtu.be/ukM_zzrIeXs)<br>
+Aside from mutual exclusion (mutex), another approach that you can take in solving the critical section problem is using semaphores. The video above is quite informative and well-explained.
