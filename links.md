@@ -84,3 +84,8 @@ The page above is an excellent summary (though still very long and detailed) of 
 
 5. [What is a semaphore?](https://youtu.be/ukM_zzrIeXs)<br>
 Aside from mutual exclusion (mutex), another approach that you can take in solving the critical section problem is using semaphores. The video above is quite informative and well-explained.
+
+### Week 08
+
+1. [CPU Scheduling](https://www.scaler.com/topics/operating-system/cpu-scheduling/)<br>
+Link ini berisi penjelasan tentang CPU Scheduling. Cukup berguna untuk memahami scheduling.
