@@ -89,3 +89,7 @@ Aside from mutual exclusion (mutex), another approach that you can take in solvi
 
 1. [CPU Scheduling](https://www.scaler.com/topics/operating-system/cpu-scheduling/)<br>
 Link ini berisi penjelasan tentang CPU Scheduling. Cukup berguna untuk memahami scheduling.
+
+## Week 09
+1. [OS Playlist for Linux From Scratch](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+The videos in this playlist helped me massively. I used it to clear my doubts on commands I run, and just to check whether a command should be run as root, user, or lfs. Super recommended
