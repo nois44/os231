@@ -66,3 +66,10 @@ ZCZC W08 10 L04 GitHub Pages related
 ZCZC W08 10 L05 QUIZ
 ZCZC W08 30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W08 60 L09 Weekly Assignments
+ZCZC W09 20 L01 SCELE/Discord related
+ZCZC W09 90 L02 ZOOM meetings related
+ZCZC W09 10 L03 GitHub related
+ZCZC W09 10 L04 GitHub Pages related
+ZCZC W09 10 L05 QUIZ
+ZCZC W09 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 60 L09 Weekly Assignments
